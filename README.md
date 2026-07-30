@@ -8,7 +8,7 @@ data-analyst-telegram-bot/
 ├── logger.py
 ├── test_ai.py
 ├── requirements.txt
-├── .env        
+├── .env   (in this add your api tokens)
 └── README.md   
 
 # Data Analyst Telegram Bot
