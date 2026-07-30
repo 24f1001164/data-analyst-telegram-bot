@@ -26,3 +26,15 @@ LLM-powered Telegram bot that answers data analysis questions and returns JSON r
 ## Setup
 Install dependencies:
 pip install -r requirements.txt
+
+
+## Architecture
+Telegram User
+↓
+Telegram Bot
+↓
+AI Agent
+↓
+Groq LLM
+↓
+JSON Response
