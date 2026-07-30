@@ -1,0 +1,11 @@
+{"timestamp": "2026-07-30 06:53:40.428243", "question": "Hello", "answer": {}}
+{"timestamp": "2026-07-30 06:54:11.981230", "question": "Calculate average of 10,20,30", "answer": {"average": 20.0}}
+{"timestamp": "2026-07-30 06:54:37.194949", "question": "Capital of Gujarat state", "answer": {"capital_of_gujarat": "Gandhinagar"}}
+{"timestamp": "2026-07-30 07:03:35.559595", "question": "Which state has the highest maternal mortality rate based on MOSPI data", "answer": {"state": "Uttar Pradesh", "maternal_mortality_rate": 130.1}}
+{"timestamp": "2026-07-30 07:14:05.789248", "question": "Multiply 2 with 4 then answer is", "answer": {"result": 8}}
+{"timestamp": "2026-07-30 07:15:23.328096", "question": "Prime minister of India", "answer": {"Prime Minister of India": "Narendra Modi"}}
+{"timestamp": "2026-07-30 07:16:57.487315", "question": "Law garden area in which state", "answer": {"Law Garden": {"location": "Ahmedabad, Gujarat, India"}}}
+{"timestamp": "2026-07-30 07:18:24.162919", "question": "Define artificial intelligence", "answer": {"definition": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn like humans."}}
+{"timestamp": "2026-07-30 07:18:38.241669", "question": "Gate 2027 exam date", "answer": {"exam_date": "Not Available"}}
+{"timestamp": "2026-07-30 07:19:09.224381", "question": "Gate exam conducts by whom", "answer": {"Gate Exam": {"Conducted By": "GATE Organizing Institute (GOI)"}}}
+{"timestamp": "2026-07-30 07:19:27.146438", "question": "Gate 2026 exam will be conducted by", "answer": {"Gate 2026 exam": {"conducted_by": "IITs"}}}
