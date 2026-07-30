@@ -10,3 +10,19 @@ data-analyst-telegram-bot/
 ├── requirements.txt
 ├── .env        
 └── README.md   
+
+# Data Analyst Telegram Bot
+
+LLM-powered Telegram bot that answers data analysis questions and returns JSON responses.
+
+## Features
+
+- Telegram Bot API integration
+- LLM agent using Groq API
+- JSON-only responses
+- Data analysis reasoning
+- JSONL logging
+
+## Setup
+Install dependencies:
+pip install -r requirements.txt
